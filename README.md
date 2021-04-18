@@ -26,6 +26,7 @@ jefColor.saveFile('/path/to/new/file');
 ### Thanks
 
 This project was possible thanks to the KDE community, who provided the JEF file specification [here](https://community.kde.org/Projects/Liberty/File_Formats/Janome_Embroidery_Format).
+
 This project was inspired by [akjabay](https://github.com/akjabay), author of [jef2img](https://github.com/akjabay/jef2img).
 
 ### Licensing
