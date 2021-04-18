@@ -1,0 +1,22 @@
+{
+  "name": "jef-color",
+  "version": "1.0.0",
+  "description": "Recolor JEF files with NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmadureira/jef-color.git"
+  },
+  "keywords": [
+    "jef"
+  ],
+  "author": "Daniel Madureira <danielmadsv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmadureira/jef-color/issues"
+  },
+  "homepage": "https://github.com/danielmadureira/jef-color#readme"
+}
