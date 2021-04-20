@@ -1,6 +1,6 @@
 {
   "name": "jef-color",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Recolor JEF files in NodeJS.",
   "main": "index.js",
   "scripts": {

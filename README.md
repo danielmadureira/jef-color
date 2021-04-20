@@ -1,6 +1,6 @@
 # **_jef-color_**
 
-Recolor JEF files with NodeJS.
+Recolor JEF files in NodeJS.
 
 ### Usage example:
 
